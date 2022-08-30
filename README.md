@@ -1,0 +1,2 @@
+# human-activity-recognition-Neuralnets
+Sensor data is widely used in all the fitness applications to track a user's health and fitness. This is one use case of what we can do with sensor data, in the coming years with the onset of 5G technology, many products with sensor data in the form of latitude, longitude, temperature, humidity, time, etc will open up a range of applications which when combined with Data Science will give rise to wide variety of applications in the field.
